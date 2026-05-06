@@ -6,7 +6,7 @@
 |-------|---------|
 | Codigo | EJD-UMA-005 |
 | Version | 2.0 |
-| Autor | Ing. Edgar O. Herrera Logrono, M.Sc. en Inteligencia Artificial, VIU Espana |
+| Autor | Ing. Edgar Oswaldo Herrera Logrono, M.Sc. en Inteligencia Artificial, VIU Espana |
 | Directores | Prof. Ezequiel Lopez Rubio -- Prof. Juan Miguel Ortiz de Lazcano, UMA |
 | Dataset | UNSW-NB15 (Moustafa & Slay, IEEE MilCIS 2015) |
 | Fecha | Mayo 2026 |
