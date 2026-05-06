@@ -64,7 +64,8 @@ flowchart TD
 
     K --> L["PROTOCOLO-STRESS\n35 checks automaticos\n31/35 OK\n4 hallazgos declarados"]
 
-    L --> M["Conclusiones dinamicas\nGeneradas desde tabla_resultados\nSin texto hardcodeado"]
+    L --> M["Conclusiones dinamicas\nGeneradas desde tabla_resultados\nSEMILLA=42"]
+
 
     style A fill:#1f4e79,color:#fff
     style I3 fill:#c55a11,color:#fff
