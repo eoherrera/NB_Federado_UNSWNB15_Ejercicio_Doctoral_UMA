@@ -186,8 +186,7 @@ Archivos requeridos: UNSW_NB15_training-set.csv y UNSW_NB15_testing-set.csv
 | v1.0 | Abr 2026 | Primera generacion. Variables CRISC incorrectas detectadas. |
 | v1.1 | May 2026 | CRISC corregido. Errores de TEST_SIZE y PISO_W corregidos. |
 | v1.2 | May 2026 | Arquitectura identica a v8.9: LOG_PRIOR, abs+floor, CatNB alpha=1.0. |
-| **v2.0** | **May 2026** | **Version oficial. Conclusiones dinamicas. Figuras con anotaciones academicas. 
-Resultados verificados con SEMILLA=42..** |
+| **v2.0** | **May 2026** | **Version oficial. Conclusiones dinamicas. Figuras con anotaciones academicas. Resultados verificados con SEMILLA=42..** |
 
 ---
 
