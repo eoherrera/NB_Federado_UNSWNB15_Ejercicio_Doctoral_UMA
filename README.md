@@ -10,7 +10,7 @@
 | Directores | Prof. Ezequiel Lopez Rubio -- Prof. Juan Miguel Ortiz de Lazcano, UMA |
 | Dataset | UNSW-NB15 (Moustafa & Slay, IEEE MilCIS 2015) |
 | Fecha | Mayo 2026 |
-| Repositorio | https://github.com/eoherrera/NB_Federado_UNSWNB15_Ejercicio_Doctoral_UMA|
+| Repositorio | https://github.com/eoherrera/NB_Federado_Ejercicio_Doctoral_UMA |
 
 ---
 
@@ -185,7 +185,7 @@ Archivos requeridos: UNSW_NB15_training-set.csv y UNSW_NB15_testing-set.csv
 | v1.0 | Abr 2026 | Primera generacion. Variables CRISC incorrectas detectadas. |
 | v1.1 | May 2026 | CRISC corregido. Errores de TEST_SIZE y PISO_W corregidos. |
 | v1.2 | May 2026 | Arquitectura identica a v8.9: LOG_PRIOR, abs+floor, CatNB alpha=1.0. |
-| **v2.0** | **May 2026** | **Version oficial GitHub. Sin auditoria interna. Conclusiones dinamicas. Figuras con anotaciones academicas. PROTOCOLO CERO TOLERANCIA aplicado.** |
+| **v2.0** | **May 2026** | **Version oficial GitHub. Sin auditoria interna. Conclusiones dinamicas. Figuras con anotaciones academicas.** |
 
 ---
 
