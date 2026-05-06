@@ -10,7 +10,7 @@
 | Directores | Prof. Ezequiel Lopez Rubio -- Prof. Juan Miguel Ortiz de Lazcano, UMA |
 | Dataset | UNSW-NB15 (Moustafa & Slay, IEEE MilCIS 2015) |
 | Fecha | Mayo 2026 |
-| Repositorio | https://github.com/eoherrera/NB_Federado_Ejercicio_Doctoral_UMA |
+| Repositorio | https://github.com/eoherrera/NB_Federado_UNSWNB15_Ejercicio_Doctoral_UMA |
 
 ---
 
