@@ -190,4 +190,4 @@ Archivos requeridos: UNSW_NB15_training-set.csv y UNSW_NB15_testing-set.csv
 
 ---
 
-*EJD-UMA-005 v2.0 -- Edgar Osawldo Herrera Logrono, M.Sc. -- Doctorado en Tecnologias Informaticas, UMA -- Mayo 2026*
+*EJD-UMA-005 v2.0 -- Edgar Oswaldo Herrera Logrono, M.Sc. -- Doctorado en Tecnologias Informaticas, UMA -- Mayo 2026*
